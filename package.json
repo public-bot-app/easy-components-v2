@@ -1,0 +1,26 @@
+{
+  "name": "easy-components-v2",
+  "version": "1.0.1",
+  "description": "A powerful, easy-to-use wrapper for Discord.js V14+ components supporting V2 UI Elements like Checkboxes, RadioGroups and Containers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "components",
+    "v2",
+    "ui",
+    "builder",
+    "modal",
+    "container",
+    "checkbox",
+    "radio"
+  ],
+  "author": "Public Bot Team",
+  "license": "MIT",
+  "peerDependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
